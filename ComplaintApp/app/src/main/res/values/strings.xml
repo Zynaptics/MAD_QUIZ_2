@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">Complaint App</string>
+    <string name="splash_title">Complaint Registration App</string>
+
+    <!-- Form Labels -->
+    <string name="student_name">Student Name</string>
+    <string name="roll_number">Roll Number</string>
+    <string name="complaint_title">Complaint Title</string>
+    <string name="category">Category</string>
+    <string name="priority">Priority</string>
+    <string name="description">Description</string>
+    <string name="submit_complaint">Submit Complaint</string>
+
+    <!-- Categories -->
+    <string name="category_it">IT - Internet, Lab, Software Issues</string>
+    <string name="category_library">Library - Book, Card, Seating Issues</string>
+    <string name="category_transport">Transport - Bus, Route, Timing Issues</string>
+    <string name="category_hostel">Hostel - Room, Cleanliness, Water Issues</string>
+    <string name="category_accounts">Accounts - Fee, Challan, Payment Issues</string>
+    <string name="category_examination">Examination - Roll No Slip, Marks, Result</string>
+    <string name="category_cafeteria">Cafeteria - Food Quality, Pricing Issues</string>
+    <string name="category_administration">Administration - General Complaints</string>
+
+    <!-- Priorities -->
+    <string name="priority_low">Low - Not urgent</string>
+    <string name="priority_medium">Medium - Normal attention</string>
+    <string name="priority_high">High - Handle quickly</string>
+    <string name="priority_urgent">Urgent - Immediate action</string>
+
+    <!-- Messages -->
+    <string name="validation_error">Please fill all fields</string>
+    <string name="submit_success">Complaint submitted successfully!</string>
+    <string name="submit_failed">Submission failed. Try again.</string>
+    <string name="no_complaints">No complaints found</string>
+
+    <!-- Detail Screen -->
+    <string name="complaint_details">Complaint Details</string>
+    <string name="status">Status</string>
+    <string name="date">Date</string>
+    <string name="back">Back</string>
+</resources>

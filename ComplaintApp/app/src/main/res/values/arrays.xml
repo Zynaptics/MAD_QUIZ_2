@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="categories_array">
+        <item>IT - Internet, Lab, Software Issues</item>
+        <item>Library - Book, Card, Seating Issues</item>
+        <item>Transport - Bus, Route, Timing Issues</item>
+        <item>Hostel - Room, Cleanliness, Water Issues</item>
+        <item>Accounts - Fee, Challan, Payment Issues</item>
+        <item>Examination - Roll No Slip, Marks, Result</item>
+        <item>Cafeteria - Food Quality, Pricing Issues</item>
+        <item>Administration - General Complaints</item>
+    </string-array>
+
+    <string-array name="priorities_array">
+        <item>Low - Not urgent</item>
+        <item>Medium - Normal attention</item>
+        <item>High - Handle quickly</item>
+        <item>Urgent - Immediate action</item>
+    </string-array>
+</resources>
