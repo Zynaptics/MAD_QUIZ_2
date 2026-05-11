@@ -22,6 +22,7 @@ Core Features (All Working)
 
 ## Project Structure
 
+
 ComplaintApp/
 ├── app/
 │   ├── src/
@@ -151,8 +152,8 @@ None. All features are working as expected.
 
 ## Author
 
-Student Name: [Your Name]
-Roll Number: [Your Roll Number]
+Student Name: Zainab Batool
+Roll Number: 2024-CS-89/2023-CS-652
 Course: Mobile Application Development
 Date: May 11, 2026
 
